@@ -1,0 +1,27 @@
+
+
+
+h1{
+    color: blue;
+    background-color: palevioletred;
+    text-align: center;
+}
+.title{
+    color: green;
+    background-color: aqua;
+}
+.text
+{
+    color: red;
+    background-color: aquamarine;
+}
+.photo{
+    width: 500px;
+}
+.red{
+    color: red;
+    text-align: center;
+}
+iframe{
+    400px
+}
